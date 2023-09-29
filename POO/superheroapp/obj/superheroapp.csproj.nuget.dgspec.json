@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anpoblano\\POO\\superheroapp\\superheroapp.csproj": {}
+    "c:\\Users\\anpoblano\\POO\\superheroapp\\superheroapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anpoblano\\POO\\superheroapp\\superheroapp.csproj": {
+    "c:\\Users\\anpoblano\\POO\\superheroapp\\superheroapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anpoblano\\POO\\superheroapp\\superheroapp.csproj",
+        "projectUniqueName": "c:\\Users\\anpoblano\\POO\\superheroapp\\superheroapp.csproj",
         "projectName": "superheroapp",
-        "projectPath": "C:\\Users\\anpoblano\\POO\\superheroapp\\superheroapp.csproj",
+        "projectPath": "c:\\Users\\anpoblano\\POO\\superheroapp\\superheroapp.csproj",
         "packagesPath": "C:\\Users\\anpoblano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anpoblano\\POO\\superheroapp\\obj\\",
+        "outputPath": "c:\\Users\\anpoblano\\POO\\superheroapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anpoblano\\AppData\\Roaming\\NuGet\\NuGet.Config"
